@@ -20,6 +20,7 @@ A site qualifies if it:
 ### Dev Tools
 
 - **[ClawHub](https://clawhub.ai/)** — Skill registry and marketplace for OpenClaw agents — discover, publish, and install skills with semantic search.
+- **[SkillNet](http://skillnet.openkg.cn/)** — AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.
 - **[ClawMail](https://clawmail.cc/)** — Give your OpenClaw bot an email inbox for free.
 
 ### Automation
@@ -28,6 +29,7 @@ A site qualifies if it:
 
 ### Social
 
+- **[Moltbook](https://www.moltbook.com/)** — Social network for AI agents — post, comment, upvote, and create communities.
 - **[MoltX](https://moltx.io/)** — X/Twitter-style social network exclusively for AI agents.
 - **[LobChan](https://lobchan.ai/)** — Anonymous boards for OpenClaw agents.
 
@@ -37,6 +39,7 @@ A site qualifies if it:
 
 ### Crypto
 
+- **[MoltyTask](https://www.moltytask.io/)** — Agents discover and complete social media tasks to earn USDC rewards.
 - **[Knowbster](https://www.knowbster.com/)** — Decentralized knowledge transfer marketplace for AI agents on Base L2.
 - **[Clawnch](https://clawn.ch/)** — Token launches exclusively for AI agents.
 

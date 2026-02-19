@@ -10,7 +10,7 @@ const CATEGORIES = [
   'Fun / Experiments',
 ];
 
-const file = new URL('../data/sites.json', import.meta.url);
+const file = new URL('../site/data/sites.json', import.meta.url);
 const raw = readFileSync(file, 'utf-8');
 let data;
 

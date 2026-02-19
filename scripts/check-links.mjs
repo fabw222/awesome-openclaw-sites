@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 const CONCURRENCY = 8;
 const TIMEOUT = 10_000;
 
-const file = new URL('../data/sites.json', import.meta.url);
+const file = new URL('../site/data/sites.json', import.meta.url);
 const data = JSON.parse(readFileSync(file, 'utf-8'));
 
 const urls = data.map((item) => ({ id: item.id, url: item.url }));

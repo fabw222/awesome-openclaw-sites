@@ -1,8 +1,56 @@
-# Awesome OpenClaw Sites
-
-Sites that expose a `skill.md` for OpenClaw agents to interact with directly.
+<div align="center">
+  <h1>Awesome OpenClaw Sites</h1>
+  <p>A curated list of websites with public <code>skill.md</code> endpoints for OpenClaw agents.</p>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+</div>
 
 Unlike installable skills, these are **live websites** with a public `skill.md` endpoint. An agent can fetch the file, understand the site's API contract, and start working with it — no installation needed.
+
+## Contents
+
+- [Productivity](#productivity)
+- [Dev Tools](#dev-tools)
+- [Automation](#automation)
+- [Social](#social)
+- [Bots](#bots)
+- [Crypto](#crypto)
+- [Fun / Experiments](#fun--experiments)
+
+## Productivity
+
+- [ClawBoard](https://clawboard.io/) - Collaborative task board for AI agents. Post projects, submit PRs, and track progress.
+- [Memory Plugin for OpenClaw](https://www.memoryplugin-for-openclaw.com/) - Cloud memory for OpenClaw and unified memory across ChatGPT, Claude, etc.
+
+## Dev Tools
+
+- [ClawHub](https://clawhub.ai/) - Skill registry and marketplace for OpenClaw agents with semantic search.
+- [ClawMail](https://clawmail.cc/) - Give your OpenClaw bot an email inbox for free.
+- [SkillNet](http://skillnet.openkg.cn/) - AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.
+
+## Automation
+
+- [seafloor](https://seafloor.bot/) - Hosted OpenClaw with dedicated resources, no Mac Mini required.
+
+## Social
+
+- [LobChan](https://lobchan.ai/) - Anonymous boards for OpenClaw agents.
+- [Moltbook](https://www.moltbook.com/) - Social network for AI agents. Post, comment, upvote, and create communities.
+- [MoltX](https://moltx.io/) - X/Twitter-style social network exclusively for AI agents.
+
+## Bots
+
+- [Moltguess](https://www.moltguess.com/) - AI-only prediction market where agents debate and forecast real-world events.
+
+## Crypto
+
+- [Clawnch](https://clawn.ch/) - Token launches exclusively for AI agents.
+- [Knowbster](https://www.knowbster.com/) - Decentralized knowledge transfer marketplace for AI agents on Base L2.
+- [MoltyTask](https://www.moltytask.io/) - Agents discover and complete social media tasks to earn USDC rewards.
+
+## Fun / Experiments
+
+- [clawcity](https://www.clawcity.xyz/) - GTA-style open world for OpenClaw agents.
+- [molt space](https://molt.space/) - A 3D virtual world for AI agents with VRM avatars and voice interaction.
 
 ## What Qualifies
 
@@ -12,53 +60,14 @@ A site qualifies if it:
 - The `skill.md` follows [OpenClaw skill format](https://docs.openclaw.ai/tools/skills) (YAML frontmatter + instructions)
 - The described API/endpoints are publicly accessible
 
-### Productivity
+## Contributing
 
-- **[ClawBoard](https://clawboard.io/)** — Collaborative task board for AI agents — post projects, submit PRs, and track progress.
-- **[Memory Plugin for OpenClaw](https://www.memoryplugin-for-openclaw.com/)** — Cloud memory for OpenClaw and unified memory across ChatGPT, Claude, etc.
-
-### Dev Tools
-
-- **[ClawHub](https://clawhub.ai/)** — Skill registry and marketplace for OpenClaw agents — discover, publish, and install skills with semantic search.
-- **[SkillNet](http://skillnet.openkg.cn/)** — AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.
-- **[ClawMail](https://clawmail.cc/)** — Give your OpenClaw bot an email inbox for free.
-
-### Automation
-
-- **[seafloor](https://seafloor.bot/)** — Hosted OpenClaw with dedicated resources, no Mac Mini required.
-
-### Social
-
-- **[Moltbook](https://www.moltbook.com/)** — Social network for AI agents — post, comment, upvote, and create communities.
-- **[MoltX](https://moltx.io/)** — X/Twitter-style social network exclusively for AI agents.
-- **[LobChan](https://lobchan.ai/)** — Anonymous boards for OpenClaw agents.
-
-### Bots
-
-- **[Moltguess](https://www.moltguess.com/)** — AI-only prediction market where agents debate and forecast real-world events.
-
-### Crypto
-
-- **[MoltyTask](https://www.moltytask.io/)** — Agents discover and complete social media tasks to earn USDC rewards.
-- **[Knowbster](https://www.knowbster.com/)** — Decentralized knowledge transfer marketplace for AI agents on Base L2.
-- **[Clawnch](https://clawn.ch/)** — Token launches exclusively for AI agents.
-
-### Fun / Experiments
-
-- **[molt space](https://molt.space/)** — A 3D virtual world for AI agents with VRM avatars and voice interaction.
-- **[clawcity](https://www.clawcity.xyz/)** — GTA-style open world for OpenClaw agents.
-
-## How to Add a Site
-
-1. Fork this repo
-2. Add your site to the list above following the format
-3. Make sure your `skill.md` is publicly accessible
-4. Submit a PR
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding a site.
 
 ## How Agents Use This
 
 ```
-1. Fetch this README or the sites.json index
+1. Fetch this README
 2. Pick a site by relevance
 3. Fetch its skill.md
 4. Follow the contract to interact with the site

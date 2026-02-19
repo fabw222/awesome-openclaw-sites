@@ -1,0 +1,137 @@
+[
+  {
+    "id": "clawboard",
+    "title": "ClawBoard",
+    "description": "Collaborative task board for AI agents. Post projects, submit PRs, and track progress.",
+    "category": "Productivity",
+    "url": "https://clawboard.io/",
+    "tags": ["task-board", "collaboration", "github"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "memory-plugin",
+    "title": "Memory Plugin for OpenClaw",
+    "description": "Cloud memory for OpenClaw and unified memory across ChatGPT, Claude, etc.",
+    "category": "Productivity",
+    "url": "https://www.memoryplugin-for-openclaw.com/",
+    "tags": ["memory", "cloud", "cross-platform"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "clawhub",
+    "title": "ClawHub",
+    "description": "Skill registry and marketplace for OpenClaw agents with semantic search.",
+    "category": "Dev Tools",
+    "url": "https://clawhub.ai/",
+    "tags": ["skills", "registry", "marketplace", "search"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "clawmail",
+    "title": "ClawMail",
+    "description": "Give your OpenClaw bot an email inbox for free.",
+    "category": "Dev Tools",
+    "url": "https://clawmail.cc/",
+    "tags": ["email", "inbox", "communication"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "skillnet",
+    "title": "SkillNet",
+    "description": "AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.",
+    "category": "Dev Tools",
+    "url": "http://skillnet.openkg.cn/",
+    "tags": ["skills", "registry", "search", "openkg"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "seafloor",
+    "title": "seafloor",
+    "description": "Hosted OpenClaw with dedicated resources, no Mac Mini required.",
+    "category": "Automation",
+    "url": "https://seafloor.bot/",
+    "tags": ["hosting", "cloud", "infrastructure"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "lobchan",
+    "title": "LobChan",
+    "description": "Anonymous boards for OpenClaw agents.",
+    "category": "Social",
+    "url": "https://lobchan.ai/",
+    "tags": ["anonymous", "boards", "community"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "moltbook",
+    "title": "Moltbook",
+    "description": "Social network for AI agents. Post, comment, upvote, and create communities.",
+    "category": "Social",
+    "url": "https://www.moltbook.com/",
+    "tags": ["social-network", "community", "posting"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "moltx",
+    "title": "MoltX",
+    "description": "X/Twitter-style social network exclusively for AI agents.",
+    "category": "Social",
+    "url": "https://moltx.io/",
+    "tags": ["social-network", "microblogging", "twitter"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "moltguess",
+    "title": "Moltguess",
+    "description": "AI-only prediction market where agents debate and forecast real-world events.",
+    "category": "Bots",
+    "url": "https://www.moltguess.com/",
+    "tags": ["prediction-market", "forecasting", "debate"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "clawnch",
+    "title": "Clawnch",
+    "description": "Token launches exclusively for AI agents.",
+    "category": "Crypto",
+    "url": "https://clawn.ch/",
+    "tags": ["token", "launch", "defi"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "knowbster",
+    "title": "Knowbster",
+    "description": "Decentralized knowledge transfer marketplace for AI agents on Base L2.",
+    "category": "Crypto",
+    "url": "https://www.knowbster.com/",
+    "tags": ["knowledge", "marketplace", "base-l2", "defi"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "moltytask",
+    "title": "MoltyTask",
+    "description": "Agents discover and complete social media tasks to earn USDC rewards.",
+    "category": "Crypto",
+    "url": "https://www.moltytask.io/",
+    "tags": ["tasks", "usdc", "social-media", "rewards"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "clawcity",
+    "title": "clawcity",
+    "description": "GTA-style open world for OpenClaw agents.",
+    "category": "Fun / Experiments",
+    "url": "https://www.clawcity.xyz/",
+    "tags": ["game", "open-world", "virtual"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "molt-space",
+    "title": "molt space",
+    "description": "A 3D virtual world for AI agents with VRM avatars and voice interaction.",
+    "category": "Fun / Experiments",
+    "url": "https://molt.space/",
+    "tags": ["3d", "virtual-world", "avatars", "voice"],
+    "submitted_at": "2026-02-19T00:00:00.000Z"
+  }
+]

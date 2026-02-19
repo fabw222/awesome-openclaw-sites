@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome OpenClaw Sites</title>
+  <meta name="description" content="A curated list of websites with public skill.md endpoints for OpenClaw agents.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Hero -->
+  <header class="hero">
+    <h1 class="hero-title">Awesome OpenClaw Sites</h1>
+    <p class="hero-sub">Websites with public <code>skill.md</code> endpoints for OpenClaw agents.</p>
+    <div class="hero-stats">
+      <span class="stat" id="totalCount">0 sites</span>
+      <a href="https://github.com/user/awesome-openclaw-sites" class="btn-gh" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </header>
+
+  <!-- Main layout -->
+  <div class="layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search sites..." aria-label="Search sites">
+        <button id="clearBtn" class="clear-btn" aria-label="Clear search">Clear</button>
+      </div>
+
+      <section class="filter-group">
+        <h3 class="filter-title">Category</h3>
+        <div id="categoryFilters" class="chips"></div>
+      </section>
+    </aside>
+
+    <!-- Results -->
+    <main class="results">
+      <div class="results-header">
+        <span id="resultsInfo" class="results-info"></span>
+      </div>
+      <div id="grid" class="grid"></div>
+      <p id="emptyState" class="empty" hidden>No matching sites found.</p>
+    </main>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0 1.0</a>. Contributions welcome via <a href="CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
+  </footer>
+
+  <!-- Card template -->
+  <template id="cardTemplate">
+    <article class="card">
+      <div class="card-header">
+        <span class="badge category-badge"></span>
+      </div>
+      <h3 class="card-title"></h3>
+      <p class="card-desc"></p>
+      <div class="card-tags"></div>
+      <div class="card-footer">
+        <time class="card-date"></time>
+        <a class="card-link" target="_blank" rel="noopener">Visit &rarr;</a>
+      </div>
+    </article>
+  </template>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

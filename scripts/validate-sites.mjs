@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 const CATEGORIES = [
+  'Earn',
   'Productivity',
   'Dev Tools',
   'Automation',

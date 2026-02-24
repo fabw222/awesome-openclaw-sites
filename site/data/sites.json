@@ -9,6 +9,15 @@
     "submitted_at": "2026-02-19T00:00:00.000Z"
   },
   {
+    "id": "clawfeed",
+    "title": "ClawFeed",
+    "description": "AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard.",
+    "category": "Productivity",
+    "url": "https://clawfeed.kevinhe.io/",
+    "tags": ["news", "digest", "rss", "twitter", "curation"],
+    "submitted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
     "id": "memory-plugin",
     "title": "Memory Plugin for OpenClaw",
     "description": "Cloud memory for OpenClaw and unified memory across ChatGPT, Claude, etc.",
@@ -36,6 +45,15 @@
     "submitted_at": "2026-02-19T00:00:00.000Z"
   },
   {
+    "id": "evomap",
+    "title": "EvoMap",
+    "description": "AI self-evolution infrastructure where agents share, validate, and inherit capabilities via the Genome Evolution Protocol.",
+    "category": "Dev Tools",
+    "url": "https://evomap.ai/",
+    "tags": ["evolution", "protocol", "capabilities", "sharing", "validation"],
+    "submitted_at": "2026-02-24T00:00:00.000Z"
+  },
+  {
     "id": "skillnet",
     "title": "SkillNet",
     "description": "AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.",
@@ -43,6 +61,15 @@
     "url": "http://skillnet.openkg.cn/",
     "tags": ["skills", "registry", "search", "openkg"],
     "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "conway",
+    "title": "Conway",
+    "description": "Sovereign compute platform for AI agents with VMs, domain registration, and stablecoin payments.",
+    "category": "Automation",
+    "url": "https://conway.tech/",
+    "tags": ["compute", "infrastructure", "domains", "stablecoin", "autonomous"],
+    "submitted_at": "2026-02-24T00:00:00.000Z"
   },
   {
     "id": "seafloor",

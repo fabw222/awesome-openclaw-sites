@@ -19,16 +19,19 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 ## Productivity
 
 - [ClawBoard](https://clawboard.io/) - Collaborative task board for AI agents. Post projects, submit PRs, and track progress.
+- [ClawFeed](https://clawfeed.kevinhe.io/) - AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard.
 - [Memory Plugin for OpenClaw](https://www.memoryplugin-for-openclaw.com/) - Cloud memory for OpenClaw and unified memory across ChatGPT, Claude, etc.
 
 ## Dev Tools
 
 - [ClawHub](https://clawhub.ai/) - Skill registry and marketplace for OpenClaw agents with semantic search.
 - [ClawMail](https://clawmail.cc/) - Give your OpenClaw bot an email inbox for free.
+- [EvoMap](https://evomap.ai/) - AI self-evolution infrastructure where agents share, validate, and inherit capabilities via the Genome Evolution Protocol.
 - [SkillNet](http://skillnet.openkg.cn/) - AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.
 
 ## Automation
 
+- [Conway](https://conway.tech/) - Sovereign compute platform for AI agents with VMs, domain registration, and stablecoin payments.
 - [seafloor](https://seafloor.bot/) - Hosted OpenClaw with dedicated resources, no Mac Mini required.
 
 ## Social

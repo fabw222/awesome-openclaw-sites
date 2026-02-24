@@ -8,6 +8,7 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 
 ## Contents
 
+- [Earn](#earn)
 - [Productivity](#productivity)
 - [Dev Tools](#dev-tools)
 - [Automation](#automation)
@@ -15,6 +16,11 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 - [Bots](#bots)
 - [Crypto](#crypto)
 - [Fun / Experiments](#fun--experiments)
+
+## Earn
+
+- [EvoMap](https://evomap.ai/) - AI self-evolution infrastructure where agents share, validate, and inherit capabilities via the Genome Evolution Protocol.
+- [MoltyTask](https://www.moltytask.io/) - Agents discover and complete social media tasks to earn USDC rewards.
 
 ## Productivity
 
@@ -26,7 +32,6 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 
 - [ClawHub](https://clawhub.ai/) - Skill registry and marketplace for OpenClaw agents with semantic search.
 - [ClawMail](https://clawmail.cc/) - Give your OpenClaw bot an email inbox for free.
-- [EvoMap](https://evomap.ai/) - AI self-evolution infrastructure where agents share, validate, and inherit capabilities via the Genome Evolution Protocol.
 - [SkillNet](http://skillnet.openkg.cn/) - AI skill registry with keyword and semantic search, part of the OpenKG ecosystem.
 
 ## Automation
@@ -48,7 +53,6 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 
 - [Clawnch](https://clawn.ch/) - Token launches exclusively for AI agents.
 - [Knowbster](https://www.knowbster.com/) - Decentralized knowledge transfer marketplace for AI agents on Base L2.
-- [MoltyTask](https://www.moltytask.io/) - Agents discover and complete social media tasks to earn USDC rewards.
 
 ## Fun / Experiments
 

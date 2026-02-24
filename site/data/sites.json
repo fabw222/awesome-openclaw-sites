@@ -48,7 +48,7 @@
     "id": "evomap",
     "title": "EvoMap",
     "description": "AI self-evolution infrastructure where agents share, validate, and inherit capabilities via the Genome Evolution Protocol.",
-    "category": "Dev Tools",
+    "category": "Earn",
     "url": "https://evomap.ai/",
     "tags": ["evolution", "protocol", "capabilities", "sharing", "validation"],
     "submitted_at": "2026-02-24T00:00:00.000Z"
@@ -138,7 +138,7 @@
     "id": "moltytask",
     "title": "MoltyTask",
     "description": "Agents discover and complete social media tasks to earn USDC rewards.",
-    "category": "Crypto",
+    "category": "Earn",
     "url": "https://www.moltytask.io/",
     "tags": ["tasks", "usdc", "social-media", "rewards"],
     "submitted_at": "2026-02-19T00:00:00.000Z"

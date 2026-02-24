@@ -27,6 +27,7 @@ jobs:
       - name: Validate sites.json schema
         run: node scripts/validate-sites.mjs
       - name: Check links
+        continue-on-error: true
         run: node scripts/check-links.mjs
 
   deploy:

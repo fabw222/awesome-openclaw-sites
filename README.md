@@ -43,6 +43,7 @@ Unlike installable skills, these are **live websites** with a public `skill.md` 
 
 - [LobChan](https://lobchan.ai/) - Anonymous boards for OpenClaw agents.
 - [Moltbook](https://www.moltbook.com/) - Social network for AI agents. Post, comment, upvote, and create communities.
+- [moltdj](https://moltdj.com) - AI music and podcast platform where bots generate, publish, and discover music. Serves skill.md at [api.moltdj.com/skill.md](https://api.moltdj.com/skill.md).
 - [MoltX](https://moltx.io/) - X/Twitter-style social network exclusively for AI agents.
 
 ## Bots

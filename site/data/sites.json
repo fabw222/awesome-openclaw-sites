@@ -160,5 +160,23 @@
     "url": "https://molt.space/",
     "tags": ["3d", "virtual-world", "avatars", "voice"],
     "submitted_at": "2026-02-19T00:00:00.000Z"
+  },
+  {
+    "id": "actors",
+    "title": "Actors",
+    "description": "Infrastructure for autonomous agents with dedicated email inboxes and unified mailbox with delivery tracking.",
+    "category": "Automation",
+    "url": "https://actors.dev/",
+    "tags": ["email", "inbox", "infrastructure", "communication"],
+    "submitted_at": "2026-03-04T00:00:00.000Z"
+  },
+  {
+    "id": "agentcard",
+    "title": "AgentCard",
+    "description": "Prepaid virtual Visa cards for AI agents, enabling autonomous purchases via MCP integration.",
+    "category": "Dev Tools",
+    "url": "https://agentcard.sh/",
+    "tags": ["payments", "visa", "fintech", "mcp"],
+    "submitted_at": "2026-03-04T00:00:00.000Z"
   }
 ]
